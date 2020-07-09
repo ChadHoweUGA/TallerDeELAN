@@ -2,9 +2,6 @@ name: "Taller de ELAN"
 navbar:
   title: "Taller de ELAN"
   left:
-    - text: "Home"
-      icon: fa-home
-      href: index.html
     - text: "ELAN"
       icon: images/ELAN128.png
       href: https://archive.mpi.nl/tla/elan
