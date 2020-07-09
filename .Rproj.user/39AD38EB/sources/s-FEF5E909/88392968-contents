@@ -15,6 +15,28 @@ output:
 https://bootswatch.com/
 -->
 
+:::: {style="display: flex;"}
+
+::: {}
+In this tutorial, we will be discussing the use of ELAN, which, according to the website, is "an annotation tool for audio and video recordings". This program, brought to you by the great folks at [The Language Archive](https://archive.mpi.nl/tla/), is quite versatile. In addition to being free, there's an active and response community of users who are more than willing to answer your questions.
+
+:::
+
+::: {}
+![ELAN](images/ELAN128.png)
+
+
+:::
+
+::::
+
+# Getting Started
+
+The first thing you'll need to do is download ELAN, [which you can do here](https://archive.mpi.nl/tla/elan/download). 
+
+![Download ELAN](images/ELANIntro.png)
+
+
 # Introduction
 
 I am [Associate Professor of Spanish Linguistics](http://rom.uga.edu/directory/people/chad-howe) with a joint appointment in the [Department of Romance Languages](http://rom.uga.edu/) and the [Department of Linguistics](http://www.linguistics.uga.edu/) at the University of Georgia. I am also faculty in the [Latin American and Caribbean Studies Institute](http://lacs.franklin.uga.edu/) where I serve as the coordinator for the [Quechua Language Program](http://lacs.franklin.uga.edu/quechua-language).
@@ -27,7 +49,9 @@ Current students are encouraged to consult the [Resources page of my website](ht
 
 I also serve as the **Review Editor** for the journal [Studies in Hispanic and Lusophone Linguistics](https://www.degruyter.com/view/journals/shll/shll-overview.xml?language=en&tab_body=editorialContent-75079). Reviews of academic books (e.g., monographs, edited volumes, handbooks, etc.) are generally solicited individually. If you would like for your book or volume to be considered for a review in SHLL, please have your commissioning editor arrange for a copy to be delivered to us. If you are working on a review, I strongly suggest reading the many excellent samples that have been published in previous volumes. There are also a number of useful guides and how-to's available that can help you as you put together your submission--such as [this article by Casey Brienza from Inside Higher Ed](https://www.insidehighered.com/advice/2015/03/27/essay-writing-academic-book-reviews) and [this insightful resource prepared by Tala Khanmalek](https://ideasonfire.net/how-to-write-a-book-review/). 
 
+# Yet Another Section
 
+Stuff here
 
 ----
 
