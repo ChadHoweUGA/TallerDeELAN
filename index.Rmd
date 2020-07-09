@@ -30,9 +30,9 @@ In this tutorial, we will be discussing the use of ELAN, which, according to the
 
 ::::
 
-# Getting Started
+# Para comenzar
 
-The first thing you'll need to do is download ELAN, [which you can do here](https://archive.mpi.nl/tla/elan/download). 
+Para comenzar, hay que descargar el programa de ELAN. [Esto se puede hacer con el siguiente enlance.](https://archive.mpi.nl/tla/elan/download).
 
 ![Download ELAN](images/ELANIntro.png)
 
