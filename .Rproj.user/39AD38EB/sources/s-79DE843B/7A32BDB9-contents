@@ -5,6 +5,9 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
+    - text: "ELAN"
+      icon: images/ELAN128.png
+      href: https://archive.mpi.nl/tla/elan
     - text: "Research"
       href: research.html
   right:
