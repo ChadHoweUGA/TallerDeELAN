@@ -3,22 +3,22 @@
     "path": "~/Documents/GitHub/TallerDeELAN/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "2613924717",
+    "hash": "658666928",
     "contents": "",
     "dirty": false,
     "created": 1594254569648.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
-        "cursorPosition": "12,3",
-        "scrollLine": "2"
+        "cursorPosition": "22,0",
+        "scrollLine": "22"
     },
     "folds": "",
-    "lastKnownWriteTime": 1594255161,
+    "lastKnownWriteTime": 1594255299,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1594255161123,
+    "last_content_update": 1594255299481,
     "read_only": false,
     "read_only_alternatives": []
 }
