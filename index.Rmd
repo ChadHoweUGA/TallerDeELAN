@@ -1,6 +1,6 @@
 ---
-title: "Taller de ELAN"
-author:  "[3rd Andean Research ProSeminar](https://web.sas.upenn.edu/quechua/2020_andean_proseminar_/)"
+title: "Linguistics in Romance Languages"
+author:  "[Department of Romance Languages](https://rom.uga.edu/)"
 output: 
   html_document:
     fig_width: 1
@@ -9,63 +9,75 @@ output:
     toc_float: true
 ---
 
-# Introducción
+# Personnel
+## Core Faculty
+- [Dr. Gary Baker](https://rom.uga.edu/directory/people/gary-k-baker): Phonetics and Phonology
+- [Dr. Sarah Blackwell](https://rom.uga.edu/directory/people/sarah-blackwell): semantics/pragmatics, discourse analysis
+- [Dr. Pilar Chamorro](https://rom.uga.edu/directory/people/pilar-chamorro): (Formal) semantics
+- [Dr. Timothy Gupton](https://rom.uga.edu/directory/people/timothy-gupton): (Formal) syntax, second language acquisition
+- [Dr. Chad Howe](https://rom.uga.edu/directory/people/chad-howe): Language variation, sociolinguistics
+- [Dr. Margaret Lubbers Quesada](https://rom.uga.edu/directory/people/margaret-lubbers-quesada): second language acquisition, historical linguistics
+- [Dr. Diana Ranson](https://rom.uga.edu/directory/people/diana-l-ranson): Historical linguistics, comparative Romance
 
-**Presentadores**
+## Affiliated Faculty
 
-1.  [Bethany Bateman McDonald (Doctoral Student, Department of Romance Languages at the University of Georgia)](https://www.rom.uga.edu/directory/people/bethany-bateman-mcdonald)
-2.  [Chad Howe (University of Georgia, Departments of Romance Languages and Linguistics)](https://chadhoweuga.github.io/chowe/index.html)
-3.  [Sarah Hubbel (Doctoral Student, Department of Romance Languages at the University of Georgia)](https://www.rom.uga.edu/directory/people/sarah-bigger)
+- [Dr. Kelly Farmer Ford](https://rom.uga.edu/directory/people/kelly-farmer-ford): Sociolinguistics, French applied linguistics, second language acquisition and foreign language pedagogy, language variation and change, and media-based studies of language change.
+- [Dr. Leslie Gordon](https://rom.uga.edu/directory/people/leslie-gordon): Phonetics, Phonology, Second Lannguage Perception & Production, Second Language Teaching & Learning
+- [Dr. Peggy Renwick](https://rom.uga.edu/directory/people/margaret-renwick): Phonetics and Phonology
 
-Nuestro objetivo con este taller es ofrecer un introducción general al uso de [ELAN](https://archive.mpi.nl/tla/elan) para la transcripción, la anotación y el análisis de archivos orales (y visuales). ELAN es distribuido por [The Language Archive](https://archive.mpi.nl/tla/) y se puede utilizar, gratuitamente, tanto con un PC como con un MAC (y Linux). Este taller ofrecerá un resumen de las funciones básicas de ELAN como la manipulación de los archivos orales y la transcripción de entrevistas con distintos niveles de análisis (p.e. oración, palabra, etc.). Los participantes tendrán acceso a materiales en quechua y español que se utilizarán durante el taller.
-
-
-<!--
-https://bootswatch.com/
--->
-
-![ELAN](images/ELAN128.png)
-
-
-# Para comenzar
-
-Para comenzar, hay que descargar el programa de ELAN. [Esto se puede hacer con el siguiente enlance.](https://archive.mpi.nl/tla/elan/download)
-
-
-# Próxima sección
-
-Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam id dolor id nibh ultricies vehicula
-
-# Otra sección
-
-Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam id dolor id nibh ultricies vehicula
-
-# Sección Final
-
-Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam id dolor id nibh ultricies vehicula
 
 ----
 
 
-<!--
-It's possible to create well-designed websites for free using [RStudio's R Markdown](http://rmarkdown.rstudio.com/) and hosting them on [Github](http://github.com). This is very new and incredibly cool. It is a really powerful way to communicate science using the same reproducible workflow you use for your analyses and collaborations.
+# Graduate Programs in Hispanic Linguistics
+## MA Hispanic Linguistics
 
-***Creating websites with R Markdown can be done without knowing R or HTML, CSS, etc,*** and that's where we'll start. However, R Markdown integrates with these tools so the more you know the more complex and beautiful your website can be. This tutorial borrows heavily from a lot of great tutorials and resources you should check out too -- there are links throughout. 
+- [Program Requirements](https://rom.uga.edu/ma-hispanic-linguistics)
+- 18 hours of required courses
+- 9 hours of elective courses
+- Thesis and Non-Thesis Options
+- Some recent theses:
+  + *La gramaticalización de la estructura (NO) IMPORTAR + MINIMIZADOR; La negación y las palabras tabúes en español* (**Shannon McDonough**, 2018)
+  + *La adquisición de L3 del parámetro de objeto nulo en el portugués brasileño* (**Diogo Cosme**, 2016)
+  + *Native and non-native instructors? discourse patterns and feedback in upper-level Spanish classes* (**Leah Lemberg**, 2015)
 
-The best way to learn is to follow along with your own laptop, but all are welcome. We'll spend half the time with the tutorial and half the time for you to work on your own website and get help. If you bring your laptop please do this beforehand: 
+## PhD Hispanic Linguistics
 
-1. install [RStudio](https://www.rstudio.com/products/rstudio/download/)
-1. create a [GitHub]((http://github.com)) account ([advice](http://happygitwithr.com/github-acct.html))
-1. set up your computer to talk to GitHub
-    - have RStudio linked directly (preferred) ([instructions sections 8-14](http://happygitwithr.com/hello-git.html))
-    - or install the [Desktop App](https://desktop.github.com/)
-    - or be familiar with git commands for the command line ([tutorial](https://try.github.io/levels/1/challenges/1))
+- [Program Requirements](https://rom.uga.edu/ph-d-romance-languages-hispanic-linguistics-area-emphasis)
+- 24 hours of ‘Required’ courses
+- 12 hours of elective courses
+- Comprehensive Exams taken in Year 3
+- Some recent dissertations:
+  + *Discourse markers in adolescent speech: contrasting native and non-native understanding, recognition, and use of Spanish reformulation markers* (Kristin Roberts)
+  + *Marcadores conversacionales como origen de intensificadores en el español peninsular: la gramaticalización de* venga (Inma Garnes, 2016)
+  + *Near-native speakers' recognition and production of idioms in L2 Spanish* (Mariana Stoyanova, 2013)
+
 
 ----
 
 
-**Examples:**
+# Funding Opportunities at UGA
 
-We have been using R Markdown for the Ocean Health Index:  [**ohi-science.org/ohi-global**](http://ohi-science.org/ohi-global).  
-And R Markdown is much more than just websites -- here's a [**one-minute video about R Markdown**](http://rmarkdown.rstudio.com/lesson-1.html) to get you excited.
--->
+- Teaching Assistantships
+- Graduate School Fellowships
+- [Foreign Language Area Scholarship (Summer/AY)](https://lacsi.uga.edu/funding-available-foreign-language-area-studies-fellowships-flas): For languages spoken in Latin America other than Spanish (e.g., Portuguese, Quechua)
+- [Tinker Field Research Grant](https://lacsi.uga.edu/funding-available-tinker-graduate-research-award): Used for funding travel to Latin America for MA and PhD students
+- [Willson Center for Humanities and Arts](https://willson.uga.edu/research/graduate-research-awards/)
+  + Recent ROML Awardees: Leticia Ricón Herce (Spring 2019), Sarah Bigger (Fall 2018), Bethany Bateman (Spring 2018)
+
+
+
+----
+
+# Resources for Linguists at UGA
+
+- Equipment for fieldwork
+  + Solid state recorders
+  + Microphones
+- Resources on campus
+  + Sound attenuated booth
+  + Recording equipment
+  + Portable eye-tracker
+  + Corpus server
+- Specialized Software
+  + Praat, Rstudio, ELAN
