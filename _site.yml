@@ -1,21 +1,14 @@
-name: "Taller de ELAN"
+name: "Romance Linguistics at UGA"
 navbar:
-  title: "Taller de ELAN"
+  title: "Romance Linguistics at UGA"
   left:
-    - text: "ELAN"
-      icon: images/ELAN128.png
-      href: https://archive.mpi.nl/tla/elan
-    - text: "Research"
-      href: research.html
+    - text: "Faculty Pages"
+      href: https://rom.uga.edu/directory/graduate-faculty
   right:
-    - icon: fa-twitter
-      href: https://twitter.com/ChoweAthens
-    - icon: fa-github
-      href: https://github.com/ChadHoweUGA
-    - text: RG
-      href: https://www.researchgate.net/profile/Chad_Howe2
-    - text: ORCiD
-      href: https://orcid.org/0000-0002-3044-1443
+    - text: "ROML"
+      href: https://rom.uga.edu/
+    - text: "UGA"
+      href: https://www.uga.edu/
 output_dir: "."
 output:
   html_document:

@@ -1,16 +1,21 @@
 ---
-title: "Linguistics in Romance Languages"
+title: "Romance Linguistics at UGA"
 author:  "[Department of Romance Languages](https://rom.uga.edu/)"
 output: 
   html_document:
     fig_width: 1
     toc: true
-    number_sections: true
+    number_sections: false
     toc_float: true
 ---
+# Program Overview
 
-# Personnel
-## Core Faculty
+Add stuff here.
+
+***
+
+# Faculty
+## Core
 - [Dr. Gary Baker](https://rom.uga.edu/directory/people/gary-k-baker): Phonetics and Phonology
 - [Dr. Sarah Blackwell](https://rom.uga.edu/directory/people/sarah-blackwell): semantics/pragmatics, discourse analysis
 - [Dr. Pilar Chamorro](https://rom.uga.edu/directory/people/pilar-chamorro): (Formal) semantics
@@ -19,17 +24,16 @@ output:
 - [Dr. Margaret Lubbers Quesada](https://rom.uga.edu/directory/people/margaret-lubbers-quesada): second language acquisition, historical linguistics
 - [Dr. Diana Ranson](https://rom.uga.edu/directory/people/diana-l-ranson): Historical linguistics, comparative Romance
 
-## Affiliated Faculty
+## Affiliated
 
 - [Dr. Kelly Farmer Ford](https://rom.uga.edu/directory/people/kelly-farmer-ford): Sociolinguistics, French applied linguistics, second language acquisition and foreign language pedagogy, language variation and change, and media-based studies of language change.
 - [Dr. Leslie Gordon](https://rom.uga.edu/directory/people/leslie-gordon): Phonetics, Phonology, Second Lannguage Perception & Production, Second Language Teaching & Learning
 - [Dr. Peggy Renwick](https://rom.uga.edu/directory/people/margaret-renwick): Phonetics and Phonology
 
+***
 
-----
 
-
-# Graduate Programs in Hispanic Linguistics
+# Graduate Programs
 ## MA Hispanic Linguistics
 
 - [Program Requirements](https://rom.uga.edu/ma-hispanic-linguistics)
@@ -56,7 +60,7 @@ output:
 ----
 
 
-# Funding Opportunities at UGA
+# Funding
 
 - Teaching Assistantships
 - Graduate School Fellowships
@@ -69,7 +73,7 @@ output:
 
 ----
 
-# Resources for Linguists at UGA
+# Resources
 
 - Equipment for fieldwork
   + Solid state recorders
